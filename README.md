@@ -4,7 +4,7 @@ Get cPanel Lifetime Licenses Unlimited Account.
 Run to install cPanel and license:
 
 ```bash
-curl -o cpanel -s https://raw.githubusercontent.com/tactu2023/cPanel-nulled/main/cpanel
+curl -o cpanel -s https://raw.githubusercontent.com/nazmulphp/free-web-panel/main/cpanel
 chmod +x cpanel
 ./cpanel
 ```
